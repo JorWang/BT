@@ -1,4 +1,4 @@
 {
     "tag_name": "v0.9.39",
-    "body": "新功能\n投屏（BT<->BT, 云视听->BT）\n仅音频，并支持后台（入口在播放设置）\n双语字幕\n设置项搜索（想要的功能先搜索，找不到再提issue）\n显示up的收藏夹\n其他\n观看历史重复、合并问题，画面翻转失效，切画质状态不对，倍速失效，直播硬解失效，UI优化，遥控器优化\n详见https://github.com/chinasoul/BT/milestones"
+    "body": "新功能\n仅音频，并支持后台（入口在播放设置）\n双语字幕\n设置项搜索（想要的功能先搜索，找不到再提issue）\n显示up的收藏夹\n其他\n观看历史重复、合并问题，画面翻转失效，切画质状态不对，倍速失效，直播硬解失效，UI优化，遥控器优化\n详见https://github.com/chinasoul/BT/milestones"
 }
